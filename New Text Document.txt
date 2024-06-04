@@ -1,0 +1,2 @@
+img1 http://127.0.0.1:5500/assignment14/1Q.html
+img2 http://127.0.0.1:5500/assignment14/2Q.html
